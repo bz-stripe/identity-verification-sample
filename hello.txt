@@ -1,0 +1,8 @@
+Hi!
+
+Thanks for forking the Stripe Identity Verification API demo app!
+
+The API is currently in private beta. If you would like access to the beta or have any questions, please reach out to identity-beta@stripe.com.
+
+Cheers,
+BZ
