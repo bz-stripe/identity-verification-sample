@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "jest": "^24.9.0",
     "mockdate": "^2.0.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "socket.io": "^2.3.0",
     "stripe": "^7.1.0",
     "stylelint": "^13.2.1",
